@@ -1,3 +1,5 @@
 # JobPilot 🤖 — Your AI Powered Job Assistant
 
-## Coming soon... Stay tuned ✌️
+[Live Soon](https://jobpilot-ai.vercel.app/)
+
+Coming soon... Stay tuned ✌️
